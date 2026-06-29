@@ -4,6 +4,9 @@ Fleet Management System adalah aplikasi berbasis web yang dikembangkan menggunak
 
 Aplikasi ini menyediakan berbagai fitur mulai dari pengelolaan data kendaraan, data pengemudi, riwayat servis, penggunaan kendaraan, hingga manajemen pengguna. Dengan sistem ini, administrator dapat memantau status kendaraan secara real-time, mengelola jadwal perawatan, serta menghasilkan laporan yang mendukung pengambilan keputusan.
 
+Email: admin@fleet.com
+Password: password
+
 ---
 
 ## Fitur Utama
